@@ -1,4 +1,4 @@
-# Adopt-a-Hydrant
+# Adopt-a-Hydrant - Clarion, PA , Clarion Volunteer Fire Department
 
 [![Build Status](http://img.shields.io/travis/codeforamerica/adopt-a-hydrant.svg)][travis]
 [![Dependency Status](http://img.shields.io/gemnasium/codeforamerica/adopt-a-hydrant.svg)][gemnasium]
